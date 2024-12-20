@@ -1,5 +1,5 @@
 // Summary: This file contains examples demonstrating how to trigger and handle various exceptions in Java.
-
+// i'm using switch case to check every exception
 import java.io.*;
 import java.sql.*;
 import java.util.Scanner;
